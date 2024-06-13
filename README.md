@@ -8,3 +8,4 @@ ley: learn english yourself
 
 #### 感谢
 thank you
+merci
